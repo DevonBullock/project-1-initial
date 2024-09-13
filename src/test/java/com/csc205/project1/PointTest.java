@@ -2,7 +2,6 @@ package com.csc205.project1;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 /*Create a test class for the class point you just created to ensure its functionality. Be sure to include common edge cases in your tests*/
 public class PointTest {
